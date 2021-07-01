@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.owik.company">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DataBase"
+        android:usesCleartextTraffic="true">
+
+        <activity android:name=".Venta" />
+        <activity android:name=".Login"/>
+        <activity android:name=".Login2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Dashboard" />
+        <activity android:name=".Agregar"/>
+        <activity android:name=".Agregar2"/>
+        <activity android:name=".VentaBusqueda"/>
+        <activity android:name=".Dashboard2" />
+        <activity android:name=".Venta2" />
+        <activity android:name=".Edit" />
+        <activity android:name=".Edit2" />
+        <activity android:name=".Test2" />
+        <activity android:name=".Search" />
+        <activity android:name=".Search2" />
+        <activity android:name=".Delete" />
+        <activity android:name=".SegundaTienda" />
+        <activity android:name=".ShowActivity" />
+        <activity android:name=".MainActivity"/>
+
+
+    </application>
+
+</manifest>

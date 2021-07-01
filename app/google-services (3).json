@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332565660079",
+    "project_id": "owik-e671f",
+    "storage_bucket": "owik-e671f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332565660079:android:74ca249513eee0b4be6f5a",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332565660079-gankejd1rei2p8vut7sti9rph1kncthu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRPisSsMlVC_IHhmSrOAwIhUeqzBNQIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332565660079-gankejd1rei2p8vut7sti9rph1kncthu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
